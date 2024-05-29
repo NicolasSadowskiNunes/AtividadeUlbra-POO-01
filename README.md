@@ -1,7 +1,7 @@
 # Atividades-Ulbra
 
 ## 1 - Calculadora de Desconto
-Nesse programa, é passado valores por 'Scanner', então é calculado o desconto com base nos valores, no final é exibido o valor final com o desconto
+Nesse programa, é passado valores por 'Scanner', então é calculado o desconto com base nos valores, no final é exibido o valor final com o desconto.
 
 ## 2 - Calculadora de ITBI
 A lógica é a mesma da anterior, o usuário passa valores atavés do 'Scanner', e é calculado o imposto em cima do que é dado de entrada. Entretanto nesse foi inserido um 'try' e um 'catch' para impossibilitar erros de digitação do usuário.
@@ -19,4 +19,4 @@ O usuário insere duas notas 'Scanner', ambas são somadas e divididas pela quan
 Nesse, através do 'Scanner', o usuário insere o 'user' e a 'pswd', que logo em seguida dentro de um loop de 3 tentativas, verifica se as variaves estão de acordo com o usuário e senha pré-determinados.
 
 ## 7 - Gerador de Tabuada
-O usuário insere um número aleatório, que é passado para dentro de um 'loop' sendo multiplicado com a variável i 
+O usuário insere um número aleatório, que é passado para dentro de um 'loop' sendo multiplicado com a variável i, e é exibido todos os resultados diretamente.
